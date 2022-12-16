@@ -7,7 +7,7 @@ export default function App() {
   return (
     <ImageBackground source={ require('./img/joao.jpg') } style={styles.img}>
         <View style={styles.container}>
-          <Text style={styles.joao}>João Cagão vai aprender a programar</Text>
+          <Text style={styles.joao}>João vai aprender a programar</Text>
           <StatusBar style="auto" />
         </View>
     </ImageBackground>
